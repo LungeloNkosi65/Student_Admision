@@ -1,0 +1,170 @@
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\ApplicationInsights.config
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\csc.exe
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\vbc.exe
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Admission.dll.config
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Admission.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Admission.pdb
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Antlr3.Runtime.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\EntityFramework.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\EntityFramework.SqlServer.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.Web.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Newtonsoft.Json.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Owin.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Helpers.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Mvc.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Optimization.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Razor.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\WebGrease.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.Web.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Helpers.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Mvc.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Optimization.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.Razor.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Antlr3.Runtime.pdb
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Newtonsoft.Json.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\EntityFramework.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\EntityFramework.SqlServer.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.dll
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.pdb
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.Migrations.InitialCreate.resources
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.csproj.GenerateResource.Cache
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.csprojAssemblyReference.cache
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\Sivuyise\Desktop\Admission\Admission\obj\Debug\Admission.csproj.CopyComplete
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\ApplicationInsights.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\csc.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\vbc.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Admission.dll.config
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Admission.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Admission.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Antlr3.Runtime.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\EntityFramework.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\EntityFramework.SqlServer.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.Web.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Newtonsoft.Json.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Owin.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Helpers.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Mvc.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Optimization.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Razor.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\WebGrease.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.Web.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Helpers.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Mvc.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Optimization.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.Razor.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Antlr3.Runtime.pdb
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Newtonsoft.Json.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\EntityFramework.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\EntityFramework.SqlServer.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\obj\Debug\Admission.Migrations.InitialCreate.resources
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\obj\Debug\Admission.csproj.GenerateResource.cache
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\obj\Debug\Admission.csproj.CopyComplete
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\obj\Debug\Admission.dll
+C:\Users\Lungelo Nkosi\Documents\Other_Projects\Admission\Admission\obj\Debug\Admission.pdb

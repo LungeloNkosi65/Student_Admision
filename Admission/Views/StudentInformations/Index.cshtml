@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Admission.Models.StudentInformation>
+
+@{
+    ViewBag.Title = "Students Information";
+}
+
+<h2>Students Details</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Full_Names)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Identity_Number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.postal_address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Surname)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Full_Names)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Identity_Number)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.postal_address)
+    </td>
+    <td>
+        <img src="@Url.Action("RenderImage", "StudentInformations", new { id = item.UserId})" width="50" height="60" />
+    </td>
+
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.UserId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.UserId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.UserId })
+    </td>
+</tr>
+}
+
+</table>

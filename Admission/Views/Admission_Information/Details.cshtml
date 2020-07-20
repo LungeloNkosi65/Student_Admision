@@ -1,0 +1,66 @@
+﻿@model Admission.Models.Admission_Information
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Admission_Information</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dtae)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dtae)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.previous_school)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.previous_school)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.class_admitted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.class_admitted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Upload)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Upload)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UserId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

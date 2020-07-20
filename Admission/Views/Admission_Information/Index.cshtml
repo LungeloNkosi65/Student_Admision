@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Admission.Models.Admission_Information>
+
+@{
+    ViewBag.Title = "Admision Information";
+}
+
+<h2>Admision Information</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dtae)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.previous_school)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.class_admitted)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Upload)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dtae)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.previous_school)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.class_admitted)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Upload)
+        </td>
+        <td>
+            @Html.ActionLink("Admit Student", "Edit", new { id=item.UserId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UserId }) |
+            @Html.ActionLink("Reject Student", "Delete", new { id=item.UserId })
+        </td>
+    </tr>
+}
+
+</table>
