@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using Admission.Models;
+using Microsoft.AspNet.Identity;
 
 namespace Admission.Controllers
 {
@@ -43,13 +44,15 @@ namespace Admission.Controllers
 
         // POST: Guardians/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "GuardianID,Email,Surname,Full_Names,cell_No,identity_No,postal_address,Documents")] Guardian guardian)
+        public ActionResult Create([Bind(Include = "GuardianID,GEmail,GSurname,GFull_Names,Gcell_No,Gidentity_No,Gpostal_address,GDocuments,StudentEmail")] Guardian guardian)
         {
             if (ModelState.IsValid)
             {
+                var userName = User.Identity.GetUserName();
+                guardian.StudentEmail = userName;
                 guardian.GuardianID = Guid.NewGuid().ToString();
                 db.Guardians.Add(guardian);
                 db.SaveChanges();
@@ -76,10 +79,10 @@ namespace Admission.Controllers
 
         // POST: Guardians/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "GuardianID,Email,Surname,Full_Names,cell_No,identity_No,postal_address,Documents")] Guardian guardian)
+        public ActionResult Edit([Bind(Include = "GuardianID,GEmail,GSurname,GFull_Names,Gcell_No,Gidentity_No,Gpostal_address,GDocuments,StudentEmail")] Guardian guardian)
         {
             if (ModelState.IsValid)
             {

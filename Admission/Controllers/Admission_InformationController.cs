@@ -90,6 +90,10 @@ namespace Admission.Controllers
         {
             if (ModelState.IsValid)
             {
+                var userName = User.Identity.GetUserName();
+                admission_Information.Email = userName;
+                admission_Information.Dtae = DateTime.Now.Date;
+
                 db.Entry(admission_Information).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -123,6 +127,26 @@ namespace Admission.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult AcceptStudent(string id)
+        {
+            var newState = new Admission_Information();
+            var dbRecord = db.Admission_Information.Find(id);
+            dbRecord.Upload = "Admited";
+            newState = dbRecord;
+            db.Entry(dbRecord).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        public ActionResult DeclineStudent(string id)
+        {
+            var newState = new Admission_Information();
+            var dbRecord = db.Admission_Information.Find(id);
+            dbRecord.Upload = "Declined";
+            newState = dbRecord;
+            db.Entry(dbRecord).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
         private IAuthenticationManager AuthenticationManager
         {

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Admission.Models.ApplicationVm>
+
+@{
+    ViewBag.Title = "ApplicationStatus";
+}
+
+<h2>Application Status</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Surname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ParentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Parent_Cell)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Identity_Number)
+        </th>
+     
+        <th>
+            @Html.DisplayNameFor(model => model.Application_Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+     
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Surname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ParentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Parent_Cell)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Identity_Number)
+        </td>
+    
+        <td>
+            @Html.DisplayFor(modelItem => item.Application_Status)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ApplicationVmId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ApplicationVmId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ApplicationVmId })
+        </td>
+    </tr>
+}
+
+</table>

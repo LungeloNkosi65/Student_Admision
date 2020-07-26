@@ -3,6 +3,8 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using static System.Net.Mime.MediaTypeNames;
+
 
 namespace Admission.Models
 {
@@ -34,5 +36,7 @@ namespace Admission.Models
         public System.Data.Entity.DbSet<Admission.Models.Admission_Information> Admission_Information { get; set; }
 
         public System.Data.Entity.DbSet<Admission.Models.Guardian> Guardians { get; set; }
+        public DbSet<Admin> Admins { get; set; }
+        public DbSet<ApplicationVm> ApplicationVms { get; set; }
     }
 }

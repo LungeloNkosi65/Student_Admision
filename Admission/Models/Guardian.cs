@@ -10,29 +10,26 @@ namespace Admission.Models
     {
         [Key]
         public string GuardianID { get; set; }
-        public string Email { get; set; }
-        [Required]
+        public string GEmail { get; set; }
         [Display(Name = "Surname")]
-        public string Surname { get; set; }
+        public string GSurname { get; set; }
 
-        [Required]
         [Display(Name = "Full Names")]
-        public string Full_Names { get; set; }
+        public string GFull_Names { get; set; }
 
-        [Required]
         [Display(Name = "CellNo")]
-        public double cell_No { get; set; }
+        public double Gcell_No { get; set; }
 
-        [Required]
         [Display(Name = "Identity Number")]
-        public string identity_No { get; set; }
+        public string Gidentity_No { get; set; }
 
 
-        [Required]
         [Display(Name = "Address")]
-        public string postal_address { get; set; }
+        public string Gpostal_address { get; set; }
 
         [Display(Name = "Upload Documents")]
-        public Byte[] Documents { get; set; }
+        public Byte[] GDocuments { get; set; }
+
+        public string StudentEmail { get; set; }
     }
 }

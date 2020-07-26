@@ -33,7 +33,7 @@ namespace Admission.Models
         public string postal_address { get; set; }
 
         //[Required]
-        [Display(Name = "Upload Image")]
+        [Display(Name = "Image")]
         public byte[] Image { get; set; }
         public string ImageType { get; set; }
 

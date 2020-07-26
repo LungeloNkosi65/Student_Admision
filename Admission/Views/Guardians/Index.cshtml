@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<Admission.Models.Guardian>
 
 @{
-    ViewBag.Title = "Guardian Information";
+    ViewBag.Title = "Index";
 }
 
-<h2>Gauardian Information</h2>
+<h2>Index</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -12,25 +12,28 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Email)
+            @Html.DisplayNameFor(model => model.GEmail)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Surname)
+            @Html.DisplayNameFor(model => model.GSurname)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Full_Names)
+            @Html.DisplayNameFor(model => model.GFull_Names)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.cell_No)
+            @Html.DisplayNameFor(model => model.Gcell_No)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.identity_No)
+            @Html.DisplayNameFor(model => model.Gidentity_No)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.postal_address)
+            @Html.DisplayNameFor(model => model.Gpostal_address)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Documents)
+            @Html.DisplayNameFor(model => model.GDocuments)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentEmail)
         </th>
         <th></th>
     </tr>
@@ -38,30 +41,33 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.Email)
+            @Html.DisplayFor(modelItem => item.GEmail)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Surname)
+            @Html.DisplayFor(modelItem => item.GSurname)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Full_Names)
+            @Html.DisplayFor(modelItem => item.GFull_Names)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.cell_No)
+            @Html.DisplayFor(modelItem => item.Gcell_No)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.identity_No)
+            @Html.DisplayFor(modelItem => item.Gidentity_No)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.postal_address)
+            @Html.DisplayFor(modelItem => item.Gpostal_address)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Documents)
+            @Html.DisplayFor(modelItem => item.GDocuments)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StudentEmail)
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.GuardianID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.GuardianID }) 
-            @*@Html.ActionLink("Delete", "Delete", new { id=item.GuardianID })*@
+            @Html.ActionLink("Details", "Details", new { id=item.GuardianID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.GuardianID })
         </td>
     </tr>
 }

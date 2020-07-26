@@ -53,9 +53,9 @@
             @Html.DisplayFor(modelItem => item.Upload)
         </td>
         <td>
-            @Html.ActionLink("Admit Student", "Edit", new { id=item.UserId }) |
+            @Html.ActionLink("Admit Student", "AcceptStudent", new { id=item.UserId }) |
             @Html.ActionLink("Details", "Details", new { id=item.UserId }) |
-            @Html.ActionLink("Reject Student", "Delete", new { id=item.UserId })
+            @Html.ActionLink("Reject Student", "DeclineStudent", new { id=item.UserId })
         </td>
     </tr>
 }
